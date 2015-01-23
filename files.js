@@ -28,7 +28,7 @@ var files = {
     'src/fsfactories/iframe.js',
     'src/noop.js'
   ],
-  testUtil: [ 'test/testUtil.js', 'bower_components/lodash/dist/lodash.js'],
+  testUtil: [ 'test/testUtil.js', 'bower_components/lodash/lodash.js'],
   jquery: [  'bower_components/jquery/dist/jquery.js' ],
   angular: [ 'bower_components/angular/angular.js' ],
   angular_mocks: [ 'bower_components/angular-mocks/angular-mocks.js' ],
